@@ -5,23 +5,23 @@ This project includes MATLAB scripts and graphs related to phase space and stabi
 ## Graphs
 
 ### x1-x2 Graphs
-![x1-x2 Graphs](./XnXn_Grafikleri.png)
+![x1-x2 Graphs](./XnXnGrafikleri.png)
 
 ### Fixed Points
-![Fixed Points](./fixed_points.png)
+![Fixed Points](./fixedpoints.png)
 
 ### Lyapunov Exponent
-![Lyapunov Exponent](./lyapunov_usteli.png)
+![Lyapunov Exponent](./lyapunovusteli.png)
 
 ### Phase Space
-![Phase Space](./faz_uzayi_grafigi.png)
+![Phase Space](./fazuzayigrafigi.png)
 
 ### Jacobian and Lyapunov Fixed Points
-![Jacobian and Lyapunov Fixed Points](./jacobian_lyapunov_fixed_points.png)
+![Jacobian and Lyapunov Fixed Points](./jacobianlyapunovfixedpoints.png)
 
 ### x1(t) and x1(t+9) Phase Space
-![x1(t) and x1(t+9) Phase Space](./x1_t_ve_x1_t9_faz_uzay_grafigi.png)
+![x1(t) and x1(t+9) Phase Space](./x1(t)vex1(t+9)fazuzay_grafigi.png)
 
 ### Time Series Graphs
-![Time Series Graphs](./zamanserisi_grafikleri.png)
+![Time Series Graphs](./zamanserisigrafikleri.png)
  

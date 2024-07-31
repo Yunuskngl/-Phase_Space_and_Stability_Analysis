@@ -24,3 +24,4 @@ This project includes MATLAB scripts and graphs related to phase space and stabi
 
 ### Time Series Graphs
 ![Time Series Graphs](./zamanserisi_grafikleri.png)
+ 

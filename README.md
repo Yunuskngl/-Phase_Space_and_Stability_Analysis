@@ -9,7 +9,7 @@ The aim of this project is to analyze the stability and dynamics of different sy
 ## Graphs
 
 ### x1-x2 Graphs
-![x1-x2 Graphs](./XnXn_Grafikleri.png)
+![x1-x2 Graphs](./xn_xn_Grafikleri.png)
 This graph represents the relationship between x1 and x2 in the phase space. It helps in visualizing the trajectory of the system in a two-dimensional space.
 
 ### Fixed Points

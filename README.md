@@ -10,7 +10,6 @@ This project includes MATLAB scripts and graphs related to phase space and stabi
 4. [Contributing](#contributing)
 5. [License](#license)
 
-
 ## Installation
 
 To run this project locally, follow these steps:
@@ -25,7 +24,6 @@ To run this project locally, follow these steps:
     cd Phase_Space_and_Stability_Analysis_
     ```
 
-
 ## Usage
 
 To run the scripts in the project, use the relevant file in the MATLAB command window. For example:
@@ -34,34 +32,20 @@ To run the scripts in the project, use the relevant file in the MATLAB command w
 run('fixedpointhesabi.m')
 
 
+Graphs
+x1-x2 Graphs
 
-#### Graphs
+Fixed Points
 
-```markdown
-## Graphs
+Lyapunov Exponent
 
-### x1-x2 Graphs
-![x1-x2 Graphs](./images/(Xn,Xn)%20Grafikleri.png)
+Phase Space
 
-### Fixed Points
-![Fixed Points](./images/fixed_points.png)
+Jacobian and Lyapunov Fixed Points
 
-### Lyapunov Exponent
-![Lyapunov Exponent](./images/lyapunov_üsteli.png)
+x1(t) and x1(t+9) Phase Space
 
-### Phase Space
-![Phase Space](./images/faz%20uzayı%20grafiği.png)
+Time Series Graphs
 
-### Jacobian and Lyapunov Fixed Points
-![Jacobian and Lyapunov Fixed Points](./images/jacobian-lyapunov-fixed%20points.png)
-
-### x1(t) and x1(t+9) Phase Space
-![x1(t) and x1(t+9) Phase Space](./images/x1(t)%20ve%20x1(t+9)%20faz%20uzay%20grafiği.png)
-
-### Time Series Graphs
-![Time Series Graphs](./images/zamanserisi%20grafikleri%20.png)
-
-
-## Contributing
-
+Contributing
 If you would like to contribute, please open a pull request or create an issue.

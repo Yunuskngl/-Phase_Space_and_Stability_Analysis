@@ -1,4 +1,3 @@
-
 # Phase Space and Stability Analysis
 
 This project includes MATLAB scripts and graphs related to phase space and stability analysis.

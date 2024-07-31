@@ -1,51 +1,27 @@
+
 # Phase Space and Stability Analysis
 
-This project includes MATLAB scripts and graphs related to phase space and stability analysis. It covers topics such as fixed points, Jacobian matrices, and Lyapunov exponents.
+This project includes MATLAB scripts and graphs related to phase space and stability analysis.
 
-## Table of Contents
+## Graphs
 
-1. [Installation](#installation)
-2. [Usage](#usage)
-3. [Graphs](#graphs)
-4. [Contributing](#contributing)
-5. [License](#license)
+### x1-x2 Graphs
+![x1-x2 Graphs](./%28Xn%2CXn%29%20Grafikleri.png)
 
-## Installation
+### Fixed Points
+![Fixed Points](./fixed_points.png)
 
-To run this project locally, follow these steps:
+### Lyapunov Exponent
+![Lyapunov Exponent](./lyapunov_u%CC%88steli.png)
 
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/Yunuskngl/Phase_Space_and_Stability_Analysis_.git
-    ```
+### Phase Space
+![Phase Space](./faz%20uzay%C4%B1%20grafi%C4%9Fi.png)
 
-2. Open MATLAB and navigate to the project directory:
-    ```matlab
-    cd Phase_Space_and_Stability_Analysis_
-    ```
+### Jacobian and Lyapunov Fixed Points
+![Jacobian and Lyapunov Fixed Points](./jacobian-lyapunov-fixed%20points.png)
 
-## Usage
+### x1(t) and x1(t+9) Phase Space
+![x1(t) and x1(t+9) Phase Space](./x1%28t%29%20ve%20x1%28t%2B9%29%20faz%20uzay%C4%B1%20grafi%C4%9Fi.png)
 
-To run the scripts in the project, use the relevant file in the MATLAB command window. For example:
-
-```matlab
-run('fixedpointhesabi.m')
-
-
-Graphs
-x1-x2 Graphs
-
-Fixed Points
-
-Lyapunov Exponent
-
-Phase Space
-
-Jacobian and Lyapunov Fixed Points
-
-x1(t) and x1(t+9) Phase Space
-
-Time Series Graphs
-
-Contributing
-If you would like to contribute, please open a pull request or create an issue.
+### Time Series Graphs
+![Time Series Graphs](./zamanserisi%20grafikleri%20.png)

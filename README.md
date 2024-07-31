@@ -5,7 +5,7 @@ This project includes MATLAB scripts and graphs related to phase space and stabi
 ## Graphs
 
 ### x1-x2 Graphs
-![x1-x2 Graphs](./XnXn_Grafikleri.png)
+![x1-x2 Graphs](./xn_xn_Grafikleri.png)
 
 ### Fixed Points
 ![Fixed Points](./fixed_points.png)
